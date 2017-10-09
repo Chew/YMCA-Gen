@@ -1,6 +1,6 @@
-var word1 = "mine,mysterious,machine,macho,mantic,misaligned,mainstream,magnificent,mad,magical,manifest,magenta,massive,mr,matey,maximum,marked,merry,malicious"
+var word1 = "mine,mysterious,machine,macho,mantic,misaligned,mainstream,magnificent,mad,magical,manifest,magenta,massive,mr,matey,maximum,marked,merry,malicious,modern,miserable,motivated,memorable"
 
-var word2 = "certain,craft,civilised,civil,chill,chirpy,childlike,challenging,captive,casual,caustic,caring,crafty,critical,cruel,cranky,craggy,cynical,curious"
+var word2 = "certain,craft,civilised,civil,chill,chirpy,childlike,challenging,captive,casual,caustic,caring,crafty,critical,cruel,cranky,craggy,cynical,curious,clever"
 
 var word1array = word1.split(",");
 
