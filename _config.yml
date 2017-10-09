@@ -13,4 +13,7 @@ repourl:   Chewsterchew/YMCA-Gen
 
 # Footer Extra Content
 ## You'll probably want to delete this (unless you have a twitter and bot for it too?)
-#footer-extra: 
+footer-extra: >
+  <a href="https://goo.gl/forms/0WOj7lj3kGhXGVZo1">Suggest Words!</a>
+  <a href="http://twitter.com/YourMCAdmin">YMCA's Twitter</a>
+  <a href="http://trbmb.chew.pw">TRBMB-Gen<br/>
