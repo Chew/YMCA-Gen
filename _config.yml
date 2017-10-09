@@ -1,0 +1,16 @@
+---
+# Title The Generator
+title:     YMCA-Gen
+
+# Use this for an analogy, used for update page. EX: What is TRBMB?
+shortname: YMCAGen
+
+# Who made the generator?
+creator:   Chewsterchew
+
+# Repo URL: THIS MUST BE Name/Repo. Ex: Chewsterchew/TRBMB-Gen
+repourl:   Chewsterchew/YMCA-Gen
+
+# Footer Extra Content
+## You'll probably want to delete this (unless you have a twitter and bot for it too?)
+#footer-extra: 
